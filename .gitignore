@@ -1,0 +1,4 @@
+data/raw/
+data/warehouse.duckdb
+__pycache__/
+*.pyc
